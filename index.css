@@ -1,0 +1,19 @@
+.card{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+
+.mt-5{
+    padding: 2rem;
+}
+
+.container-fluid{
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
+
